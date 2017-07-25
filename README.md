@@ -1,4 +1,4 @@
 # MirrorUmbrella
 
-**TODO: Add description**
+A toy messaging app written in Elixir
 
